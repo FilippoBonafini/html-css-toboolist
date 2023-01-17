@@ -82,3 +82,76 @@ button{
 
 /* FINE PULSANTI */
 
+/* SEZIONI E TITOLI*/
+.sezione-corpo{
+    margin-top: 65px;
+    margin-left: 90px;
+}
+
+.titolo-corpo{
+    font-size: 35px;
+}
+
+/* LISTE  */
+li{
+    list-style-type: none;
+    font-size: 30px;
+    padding-top: 35px;
+}
+
+.ok::before{
+    content: '\2713';
+    color: #7eccba;
+    border: 4px solid #7eccba;
+    border-radius: 50%;
+    padding: 1px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-right: 10px;
+}
+
+.ko::before{
+    content: '\2713';
+    color: #7eccba;
+    border: 4px solid #7eccba;
+    border-radius: 50%;
+    padding: 1px;
+    padding-left: 7px;
+    padding-right: 7px;
+    margin-right: 10px;
+}
+
+.tag-task{
+    display: inline-block;
+    border-radius: 25px;
+    font-size:20px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+}
+
+/* TAG  */
+.editorial{
+    background-color: #45abea ;
+}
+
+.q1-globals{
+    background-color: #9C72E4 ;
+}
+
+.recruiting{
+    background-color: #65C1AA ;
+}
+
+.mobile{
+    background-color: #F29E33 ;
+}
+
+.website{
+    background-color: #D863A1 ;
+}
+
+.sales{
+    background-color: #B0C926 ;
+}
