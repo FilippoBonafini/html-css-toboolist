@@ -5,17 +5,22 @@
 }
 
 
+
 /* IMPOSTAZIONE A TUTTO IL BODY  */
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #F6F8F9;
 }
 
+
+
 /* CONTENITORE LOGO E TITOLO */
 #logo-titolo-principali{
     background-color: white;
     padding: 20px 35px;
 }
+
+
 
 /*TITOLO */
 .titolo-principale{
@@ -25,6 +30,8 @@ body{
     margin: 0;
 }
 
+
+
 /* ICONA */
 #logo-principale{
     width: 90px;
@@ -32,6 +39,8 @@ body{
     vertical-align: middle;
 
 }
+
+
 
 /* CONTAINER APP  */
 #container-app{
@@ -44,6 +53,8 @@ body{
     margin-bottom: 20px;
     border-radius: 10px;
 }
+
+
 
 /* INIZIO PULSANTI */
 #pulsanti{
@@ -60,7 +71,6 @@ button{
     border-radius: 10px;
     font-size: large;
 }
-
 
 #button1{
     border:none;
@@ -79,8 +89,9 @@ button{
     padding-left: 20px;
     padding-right: 20px;
 }
-
 /* FINE PULSANTI */
+
+
 
 /* SEZIONI E TITOLI*/
 .sezione-corpo{
@@ -91,6 +102,8 @@ button{
 .titolo-corpo{
     font-size: 35px;
 }
+
+
 
 /* LISTE  */
 li{
@@ -131,6 +144,8 @@ li{
     color: white;
 }
 /* FINE LISTE  */
+
+
 
 /* TAG  */
 .editorial{
