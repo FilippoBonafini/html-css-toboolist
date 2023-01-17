@@ -1,0 +1,37 @@
+/* RESET  */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* IMPOSTAZIONE A TUTTO IL BODY  */
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #F6F8F9;
+}
+
+/* CONTENITORE LOGO E TITOLO */
+#logo-titolo-principali{
+    background-color: white;
+    padding: 20px 35px;
+}
+
+/*TITOLO */
+.titolo-principale{
+    font-size: 80px;    
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+}
+
+/* ICONA */
+#logo-principale{
+    width: 90px;
+    height: 90px;
+    vertical-align: middle;
+
+}
+
+
+
